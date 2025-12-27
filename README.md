@@ -24,7 +24,9 @@ The number of non-zero rows is the rank of the matrix.
 
 ### Step5 : Using the np.linalg.matrix_rank(), we can find the rank of the given matrix.
 
-## Program:<img width="887" height="786" alt="image" src="https://github.com/user-attachments/assets/9264ddae-3158-4612-a015-b74e74c67674" />
+## Program:
+
+<img width="887" height="786" alt="image" src="https://github.com/user-attachments/assets/9264ddae-3158-4612-a015-b74e74c67674" />
 
 ## Output:
 <img width="1235" height="381" alt="image" src="https://github.com/user-attachments/assets/d32dda42-cf77-4a64-9ec6-4775fe9274c7" />
