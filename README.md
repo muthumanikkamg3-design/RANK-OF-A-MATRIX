@@ -9,15 +9,16 @@ To write a python program to find the rank of a matrix
 
 Write the given matrix in its original form.
 
-Step 2: Apply elementary row operations
+###Step 2: Apply elementary row operations
 
 Use row operations (swap rows, multiply a row by a non-zero number, add/subtract rows) to convert the matrix into row echelon form.
 
-Step 3: Identify non-zero rows
+
+###Step 3: Identify non-zero rows
 
 After simplification, observe the rows that are not completely zero.
 
-Step 4: Determine the rank
+###Step 4: Determine the rank
 
 The number of non-zero rows is the rank of the matrix.
 
